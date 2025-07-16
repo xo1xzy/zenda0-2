@@ -29,5 +29,6 @@ submod() {
 }
 
 # Execute 
-push_up_main
+# push_up_main
+normal_push
 check_branch_remote
